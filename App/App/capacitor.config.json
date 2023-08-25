@@ -1,0 +1,16 @@
+{
+	"appId": "com.example.app",
+	"pushNotifications": {
+		"firebase": {
+			"projectId": "corrigemontexte-b49d4"
+		},
+		"presentationOptions": [
+			"badge",
+			"sound",
+			"alert"
+		]
+	},
+	"appName": "corrige mon texte",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
